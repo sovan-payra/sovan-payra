@@ -1,12 +1,17 @@
 # Hi, I'm SOVAN PAYRA 👋
 
-Aspiring Web and Python Developer passionate about building modern, efficient, and scalable applications.
+Aspiring Full-Stack and Mobile Developer passionate about building modern, efficient, and scalable web and mobile applications using React.js, React Native, Node.js, Express.js, Python, and other modern technologies.
+
 
 ## 🔧 Technologies & Tools
-- 🌐 HTML, CSS, JavaScript, React
-- 🐍 Python, Flask, Django
-- 🛠️ Git, GitHub, VS Code
-- 🗄️ MySQL, SQLite
+
+* 🌐 **HTML, CSS, JavaScript, React.js, React-Native**
+* ⚙️ **Node.js, Express.js**
+* 🗄️ **MongoDB, MySQL**
+* 💻 **C, C++, Java, Python**
+* 🤖 **Machine Learning**
+* 🛠️ **Git, GitHub, VS Code**
+
 
 ## 📂 Projects
 - [xSkills](https://github.com/sovan-payra/xSkills---Find-Your-Next-Opportunity)
