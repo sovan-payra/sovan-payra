@@ -9,9 +9,10 @@ Aspiring Web and Python Developer passionate about building modern, efficient, a
 - 🗄️ MySQL, SQLite
 
 ## 📂 Projects
-- [Portfolio Website](https://github.com/your-username/portfolio)
-- [Flask Blog App](https://github.com/your-username/flask-blog)
-- [To-Do App with React](https://github.com/your-username/react-todo)
+- [xSkills](https://github.com/sovan-payra/xSkills---Find-Your-Next-Opportunity)
+- [Food App](https://github.com/sovan-payra/Food-App)
+- [k72](https://github.com/sovan-payra/k72-clone-react-gsap)
+- [Backend-Ledger](https://github.com/sovan-payra/Backend-Ledger)
 
 ## 📫 How to reach me
 - Email: sovanpayra019@gmail.com
